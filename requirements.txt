@@ -1,0 +1,4 @@
+Django>=4.2
+djangorestframework>=3.14.0
+pillow>=10.0.0           # For image uploads (book cover images)
+django-cors-headers>=4.0.0  # To handle CORS for React frontend
