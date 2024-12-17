@@ -117,7 +117,7 @@ A full-stack web application for managing books using **Django REST Framework** 
 
 ## ✨ **Contributors**
 
-- [Your Name](https://www.linkedin.com/in/mithun-adhe)
+- [Mithun Adhe](https://www.linkedin.com/in/mithun-adhe)
 
 ---
 
