@@ -98,12 +98,12 @@ A full-stack web application for managing books using **Django REST Framework** 
 
 ### Book Management UI
 
-![Book Add View](assets/book_add.jpg)
+![Book Add View](assets/book_add.png)
 *Book adding page*
 
 ### Book Details View
 
-![Book List and details](assets/book_list.jpg)
+![Book List and details](assets/book_list.png)
 *Detailed view of books and list of books*
 ---
 
